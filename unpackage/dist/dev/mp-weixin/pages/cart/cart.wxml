@@ -1,0 +1,1 @@
+<view><cart-list vue-id="1775f8c0-1" bind:__l="__l"></cart-list><bottom-bar vue-id="1775f8c0-2" bind:__l="__l"></bottom-bar></view>

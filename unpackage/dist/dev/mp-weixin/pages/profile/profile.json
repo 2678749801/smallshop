@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "会员",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "list-view": "/pages/profile/ListView"
+  }
+}

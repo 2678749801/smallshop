@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "购物街",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mk-goods-list": "/components/mk-goods-list/mk-goods-list",
+    "home-recommed-view": "/pages/home/childComps/HomeRecommendView",
+    "tab-control": "/components/content/tabcontrol/TabControl",
+    "goods-list": "/components/content/goods/GoodsList",
+    "back-top": "/components/common/BackTop/BackTop"
+  }
+}

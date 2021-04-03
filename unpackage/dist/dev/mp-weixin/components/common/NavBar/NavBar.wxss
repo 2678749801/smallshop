@@ -1,0 +1,23 @@
+
+.nav-bar.data-v-6afa6006 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+ line-height: 44px;
+  height: 44px;
+  text-align: center;
+  -webkit-box-shadow: 0 1px 1px rgba(100, 100, 100, 0.1);
+          box-shadow: 0 1px 1px rgba(100, 100, 100, 0.1);
+}
+.left.data-v-6afa6006 {
+  width: 60px;
+}
+.right.data-v-6afa6006 {
+  width: 60px;
+}
+.center.data-v-6afa6006 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+

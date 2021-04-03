@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "detail-nav-bar": "/pages/detail/detailComps/DetailNavBar",
+    "detail-base-info": "/pages/detail/detailComps/DetailBaseInfo",
+    "detail-shop-info": "/pages/detail/detailComps/DetailShopInfo",
+    "detail-images-info": "/pages/detail/detailComps/DetailImageInfo",
+    "detail-bottom-bar": "/pages/detail/detailComps/DetailBottomBar",
+    "back-top": "/components/common/BackTop/BackTop"
+  }
+}

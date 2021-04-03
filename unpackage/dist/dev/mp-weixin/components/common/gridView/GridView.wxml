@@ -1,0 +1,1 @@
+<view data-ref="gridView" class="grid-view data-v-e7328974 vue-ref"><slot></slot></view>

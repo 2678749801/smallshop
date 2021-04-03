@@ -1,0 +1,1 @@
+<view class="cart-list"><block wx:for="{{cartList}}" wx:for-item="item" wx:for-index="__i0__" wx:key="iid"><cart-list-item vue-id="{{'44c6fd92-1-'+__i0__}}" item-info="{{item}}" bind:__l="__l"></cart-list-item></block></view>

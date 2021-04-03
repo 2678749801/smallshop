@@ -1,0 +1,1 @@
+<view class="category"><view class="content"><tab-menu vue-id="9d275500-1" categories="{{categories}}" bind:__l="__l"></tab-menu></view></view>

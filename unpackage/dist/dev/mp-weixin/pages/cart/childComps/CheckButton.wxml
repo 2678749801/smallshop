@@ -1,0 +1,1 @@
+<view class="{{['check-button',(isChecked)?'check':'']}}"><image src="../../../static/cart/tick.svg" mode="scaleToFill" alt></image></view>
